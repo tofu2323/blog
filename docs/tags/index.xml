@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Harvest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 08 Jul 2018 12:37:16 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jul 2018 13:24:30 +0900</lastBuildDate>
     
 	<atom:link href="https://tofu2323.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Tag1</title>
       <link>https://tofu2323.github.io/blog/tags/tag1/</link>
-      <pubDate>Sun, 08 Jul 2018 12:37:16 +0900</pubDate>
+      <pubDate>Sun, 08 Jul 2018 13:24:30 +0900</pubDate>
       
       <guid>https://tofu2323.github.io/blog/tags/tag1/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Tag2</title>
       <link>https://tofu2323.github.io/blog/tags/tag2/</link>
-      <pubDate>Sun, 08 Jul 2018 12:37:16 +0900</pubDate>
+      <pubDate>Sun, 08 Jul 2018 13:24:30 +0900</pubDate>
       
       <guid>https://tofu2323.github.io/blog/tags/tag2/</guid>
       <description></description>

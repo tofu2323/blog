@@ -3,13 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tofu2323.github.io/blog/2018/07/my-second-post/</loc>
-    <lastmod>2018-07-08T12:37:16+09:00</lastmod>
+    <loc>https://tofu2323.github.io/blog/page/test/</loc>
+    <lastmod>2018-07-08T13:24:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tofu2323.github.io/blog/page/test2/</loc>
+    <lastmod>2018-07-08T13:24:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tofu2323.github.io/blog/2018/07/test2/</loc>
+    <lastmod>2018-07-08T13:24:05+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tofu2323.github.io/blog/2018/07/test/</loc>
+    <lastmod>2018-07-08T13:22:48+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://tofu2323.github.io/blog/2018/07/my-first-post/</loc>
-    <lastmod>2018-07-08T12:33:30+09:00</lastmod>
+    <lastmod>2018-07-08T13:19:59+09:00</lastmod>
   </url>
   
   <url>
@@ -24,43 +39,49 @@
   
   <url>
     <loc>https://tofu2323.github.io/blog/categories/category/</loc>
-    <lastmod>2018-07-08T12:37:16+09:00</lastmod>
+    <lastmod>2018-07-08T13:24:30+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://tofu2323.github.io/blog/</loc>
-    <lastmod>2018-07-08T12:37:16+09:00</lastmod>
+    <lastmod>2018-07-08T13:24:30+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tofu2323.github.io/blog/page/</loc>
+    <lastmod>2018-07-08T13:24:30+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://tofu2323.github.io/blog/post/</loc>
-    <lastmod>2018-07-08T12:37:16+09:00</lastmod>
+    <lastmod>2018-07-08T13:24:05+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://tofu2323.github.io/blog/categories/subcategory/</loc>
-    <lastmod>2018-07-08T12:37:16+09:00</lastmod>
+    <lastmod>2018-07-08T13:24:30+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://tofu2323.github.io/blog/tags/tag1/</loc>
-    <lastmod>2018-07-08T12:37:16+09:00</lastmod>
+    <lastmod>2018-07-08T13:24:30+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://tofu2323.github.io/blog/tags/tag2/</loc>
-    <lastmod>2018-07-08T12:37:16+09:00</lastmod>
+    <lastmod>2018-07-08T13:24:30+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://tofu2323.github.io/blog/tags/</loc>
-    <lastmod>2018-07-08T12:37:16+09:00</lastmod>
+    <lastmod>2018-07-08T13:24:30+09:00</lastmod>
     <priority>0</priority>
   </url>
   
