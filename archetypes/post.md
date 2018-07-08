@@ -6,9 +6,8 @@ categories:
 - subcategory
 tags:
 - tag1
-- tag2
-keywords:
-- tech
+#keywords:
+#- tech
 #thumbnailImage: //example.com/image.jpg
 #thumbnailImagePosition:right
 #coverImage: image-2.png
