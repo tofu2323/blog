@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gcp on Harvest</title>
+    <link>https://tofu2323.github.io/blog/categories/gcp/</link>
+    <description>Recent content in Gcp on Harvest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 11 Jul 2018 12:22:58 +0900</lastBuildDate>
+    
+	<atom:link href="https://tofu2323.github.io/blog/categories/gcp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Access to Image at GCS has been blocked by CORS</title>
+      <link>https://tofu2323.github.io/blog/2018/07/access-to-image-at-gcs-has-been-blocked-by-cors/</link>
+      <pubDate>Wed, 11 Jul 2018 12:22:58 +0900</pubDate>
+      
+      <guid>https://tofu2323.github.io/blog/2018/07/access-to-image-at-gcs-has-been-blocked-by-cors/</guid>
+      <description>&lt;p&gt;開発中にGCS(Google Cloud Storage)から画像を取得しようとしたらCORSのエラーが出た時のメモ。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
