@@ -46,5 +46,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Programming</title>
+      <link>https://tofu2323.github.io/blog/categories/programming/</link>
+      <pubDate>Mon, 20 Aug 2018 09:47:34 +0900</pubDate>
+      
+      <guid>https://tofu2323.github.io/blog/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tips</title>
+      <link>https://tofu2323.github.io/blog/categories/tips/</link>
+      <pubDate>Mon, 20 Aug 2018 09:47:34 +0900</pubDate>
+      
+      <guid>https://tofu2323.github.io/blog/categories/tips/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
